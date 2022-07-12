@@ -1,0 +1,20 @@
+/* reset default values */
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* colors */
+:root{
+    --white: #FFFFFF;
+    --black1: #24303E;
+    --blue1: #052C3B;
+    --blue2:#19536C;
+    --gray1: #808397;
+    --gray2: #A7AAAD;
+    --gray3: #5B636D;
+    --green1: #24554A;
+    --green2: #2C7566;
+}
+
